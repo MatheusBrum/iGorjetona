@@ -1,0 +1,185 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* GorjetonaAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {559, 529}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 629}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Gorjetona */ = {
+		activeExec = 0;
+		executables = (
+			84C14F4C10892D57004BA37D /* Gorjetona */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* GorjetonaViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {873, 529}}";
+			sepNavSelRange = "{522, 0}";
+			sepNavVisRange = "{0, 528}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* GorjetonaViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1426, 754}}";
+			sepNavSelRange = "{1635, 0}";
+			sepNavVisRange = "{0, 2079}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 84C14F4C10892D57004BA37D /* Gorjetona */;
+		activeSDKPreference = iphoneos3.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Gorjetona */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Gorjetona */,
+		);
+		codeSenseManager = 84C14F5610892D59004BA37D /* Code sense */;
+		executables = (
+			84C14F4C10892D57004BA37D /* Gorjetona */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					381,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 284914161;
+			PBXWorkspaceStateSaveDate = 284914161;
+		};
+		perUserProjectItems = {
+			8403574510FB721E009BD67A /* PBXBookmark */ = 8403574510FB721E009BD67A /* PBXBookmark */;
+			8403574610FB721E009BD67A /* PBXTextBookmark */ = 8403574610FB721E009BD67A /* PBXTextBookmark */;
+			8403574710FB721E009BD67A /* PBXTextBookmark */ = 8403574710FB721E009BD67A /* PBXTextBookmark */;
+			8403574810FB721E009BD67A /* PBXTextBookmark */ = 8403574810FB721E009BD67A /* PBXTextBookmark */;
+			84C14F991089366C004BA37D /* PBXBookmark */ = 84C14F991089366C004BA37D /* PBXBookmark */;
+			84C14FCF10893BF6004BA37D /* PBXTextBookmark */ = 84C14FCF10893BF6004BA37D /* PBXTextBookmark */;
+			84C14FE410893C93004BA37D /* PlistBookmark */ = 84C14FE410893C93004BA37D /* PlistBookmark */;
+		};
+		sourceControlManager = 84C14F5510892D59004BA37D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8403574510FB721E009BD67A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 84C14FDF10893C46004BA37D /* Default.png */;
+	};
+	8403574610FB721E009BD67A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GorjetonaAppDelegate.m */;
+		name = "GorjetonaAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 629;
+		vrLoc = 0;
+	};
+	8403574710FB721E009BD67A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* GorjetonaViewController.h */;
+		name = "GorjetonaViewController.h: 19";
+		rLen = 0;
+		rLoc = 522;
+		rType = 0;
+		vrLen = 528;
+		vrLoc = 0;
+	};
+	8403574810FB721E009BD67A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* GorjetonaViewController.h */;
+		name = "GorjetonaViewController.h: 19";
+		rLen = 0;
+		rLoc = 522;
+		rType = 0;
+		vrLen = 528;
+		vrLoc = 0;
+	};
+	84C14F4C10892D57004BA37D /* Gorjetona */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Gorjetona;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	84C14F5510892D59004BA37D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	84C14F5610892D59004BA37D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	84C14F991089366C004BA37D /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 84C14F8A10893429004BA37D /* fundo.png */;
+	};
+	84C14FCF10893BF6004BA37D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GorjetonaViewController.m */;
+		name = "GorjetonaViewController.m: 37";
+		rLen = 0;
+		rLoc = 1635;
+		rType = 0;
+		vrLen = 2079;
+		vrLoc = 0;
+	};
+	84C14FE410893C93004BA37D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Gorjetona-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIconFile,
+		);
+		name = "/Users/MatheusBrum/Desktop/iGorjetona/Gorjetona-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+}

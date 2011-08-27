@@ -1,0 +1,494 @@
+TGorjetona
+v7
+r0
+t277429103.120962
+cCheck dependencies
+cProcessInfoPlistFile /Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app/Info.plist Gorjetona-Info.plist
+cCompileXIB /Users/MatheusBrum/Desktop/iGorjetona/MainWindow.xib
+cCompileXIB /Users/MatheusBrum/Desktop/iGorjetona/GorjetonaViewController.xib
+cCpResource build/Debug-iphonesimulator/Gorjetona.app/fundo.png Classes/fundo.png
+cCpResource build/Debug-iphonesimulator/Gorjetona.app/icon.png icon.png
+cProcessPCH /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gorjetona_Prefix-bpgagwdkghrkifblpzrjjktpdzzr/Gorjetona_Prefix.pch.gch Gorjetona_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/main.o /Users/MatheusBrum/Desktop/iGorjetona/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/GorjetonaAppDelegate.o /Users/MatheusBrum/Desktop/iGorjetona/Classes/GorjetonaAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/GorjetonaViewController.o /Users/MatheusBrum/Desktop/iGorjetona/Classes/GorjetonaViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app/Gorjetona normal i386
+cGenerateDSYMFile /Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app.dSYM /Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app/Gorjetona
+cTouch /Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk
+c000000004AAC665500000000000000EE
+t1252812373
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A821911000000000026EE30
+t1250040081
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A765094000000000027E880
+t1249267860
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7650820000000000001355
+t1249267842
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E970000000000000788
+t1249668759
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6F5900000000016721E0
+t1249668953
+s23536096
+
+N/Users/MatheusBrum/Desktop/Gorjetona/Classes/GorjetonaAppDelegate.h
+c000000004AD8F5D700000000000001EC
+t1255732695
+s492
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/Gorjetona/Classes/GorjetonaAppDelegate.m
+c000000004AD8F5D70000000000000275
+t1255732695
+s629
+i"GorjetonaAppDelegate.h"
+i"GorjetonaViewController.h"
+
+N/Users/MatheusBrum/Desktop/Gorjetona/Classes/GorjetonaViewController.h
+c000000004AD8FEE90000000000000210
+t1255735017
+s528
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/Gorjetona/Classes/GorjetonaViewController.m
+c000000004AD902D900000000000008FF
+t1255736025
+s2303
+i"GorjetonaViewController.h"
+
+N/Users/MatheusBrum/Desktop/Gorjetona/Classes/fundo.png
+c000000004A8621E30000000000002759
+t1250304483
+s10073
+
+N/Users/MatheusBrum/Desktop/Gorjetona/GorjetonaViewController.xib
+c000000004AD8FEF500000000000075FC
+t1255735029
+s30204
+
+N/Users/MatheusBrum/Desktop/Gorjetona/Gorjetona_Prefix.pch
+c000000004AD8F5D700000000000000BB
+t1255732695
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/Gorjetona/MainWindow.xib
+c000000004AD8F5D70000000000002464
+t1255732695
+s9316
+
+N/Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app
+t1255735868
+s272
+
+N/Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app.dSYM
+t1255735868
+s102
+
+N/Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app/Gorjetona
+t1255735868
+s20960
+
+N/Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app/GorjetonaViewController.nib
+t1255735032
+s2896
+
+N/Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app/Info.plist
+t1255732917
+s570
+
+N/Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app/MainWindow.nib
+t1255732917
+s1108
+
+N/Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app/PkgInfo
+t1255732917
+s8
+
+N/Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app/fundo.png
+t1255734484
+s10073
+
+N/Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/Gorjetona.LinkFileList
+c000000004AD8F6B50000000000000197
+t1255732917
+s407
+
+N/Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/GorjetonaAppDelegate.o
+t1255735032
+s39036
+
+N/Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/GorjetonaViewController.o
+t1255735868
+s43008
+
+N/Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/main.o
+t1255732918
+s5940
+
+N/Users/MatheusBrum/Desktop/Gorjetona/main.m
+c000000004AD8F5D7000000000000016C
+t1255732695
+s364
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/iGorjetona/Classes/GorjetonaAppDelegate.h
+c000000004AD8F5D700000000000001EC
+t1255732695
+s492
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/iGorjetona/Classes/GorjetonaAppDelegate.m
+c000000004AD8F5D70000000000000275
+t1255732695
+s629
+i"GorjetonaAppDelegate.h"
+i"GorjetonaViewController.h"
+
+N/Users/MatheusBrum/Desktop/iGorjetona/Classes/GorjetonaViewController.h
+c000000004AD8FEE90000000000000210
+t1255735017
+s528
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/iGorjetona/Classes/GorjetonaViewController.m
+c000000004AD902D900000000000008FF
+t1255736025
+s2303
+i"GorjetonaViewController.h"
+
+N/Users/MatheusBrum/Desktop/iGorjetona/Classes/fundo.png
+c000000004A8621E30000000000002759
+t1250304483
+s10073
+
+N/Users/MatheusBrum/Desktop/iGorjetona/GorjetonaViewController.xib
+c000000004AD8FEF500000000000075FC
+t1255735029
+s30204
+
+N/Users/MatheusBrum/Desktop/iGorjetona/Gorjetona_Prefix.pch
+c000000004AD8F5D700000000000000BB
+t1255732695
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/iGorjetona/MainWindow.xib
+c000000004AD8F5D70000000000002464
+t1255732695
+s9316
+
+N/Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app
+t1255736303
+s306
+
+N/Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app.dSYM
+t1255736303
+s102
+
+N/Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app/Gorjetona
+t1255736303
+s20964
+
+N/Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app/GorjetonaViewController.nib
+t1255735032
+s2896
+
+N/Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app/Info.plist
+t1255736302
+s607
+
+N/Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app/MainWindow.nib
+t1255732917
+s1108
+
+N/Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app/PkgInfo
+t1255736302
+s8
+
+N/Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app/fundo.png
+t1255734484
+s10073
+
+N/Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app/icon.png
+t1255736302
+s9074
+
+N/Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/Gorjetona.LinkFileList
+c000000004AD903EE000000000000019A
+t1255736302
+s410
+
+N/Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/GorjetonaAppDelegate.o
+t1255736303
+s39036
+
+N/Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/GorjetonaViewController.o
+t1255736303
+s43016
+
+N/Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/main.o
+t1255736302
+s5940
+
+N/Users/MatheusBrum/Desktop/iGorjetona/icon.png
+c000000004AD903BC0000000000002372
+t1255736252
+s9074
+
+N/Users/MatheusBrum/Desktop/iGorjetona/main.m
+c000000004AD8F5D7000000000000016C
+t1255732695
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gorjetona_Prefix-bpgagwdkghrkifblpzrjjktpdzzr/Gorjetona_Prefix.pch.gch
+t1255736302
+s13034960
+
+N/var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gorjetona_Prefix-euplktcyxkzkxycurskyhboxsdpa/Gorjetona_Prefix.pch.gch
+t1255732918
+s13034960
+
+NGorjetona-Info.plist
+c000000004AD903EE0000000000000390
+t1255736302
+s912
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies277429102#277429102#0(0"0(0#1#0"2416090432#0"0#
+
+CCompileC build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/GorjetonaAppDelegate.o /Users/MatheusBrum/Desktop/Gorjetona/Classes/GorjetonaAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277427832.547740
+e277427832.608533
+r1
+xCompileC
+xbuild/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/GorjetonaAppDelegate.o
+x/Users/MatheusBrum/Desktop/Gorjetona/Classes/GorjetonaAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/MatheusBrum/Desktop/Gorjetona/Classes/GorjetonaAppDelegate.m277427832#277427832#0(0"0(0#0#67"/Users/MatheusBrum/Desktop/Gorjetona/Classes/GorjetonaAppDelegate.m2416090432#1915"    cd /Users/MatheusBrum/Desktop/Gorjetona    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-generated-files.hmap -I/Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-project-headers.hmap -F/Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator -I/Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/include -I/Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/DerivedSources/i386 -I/Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/DerivedSources -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gorjetona_Prefix-euplktcyxkzkxycurskyhboxsdpa/Gorjetona_Prefix.pch -c /Users/MatheusBrum/Desktop/Gorjetona/Classes/GorjetonaAppDelegate.m -o /Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/GorjetonaAppDelegate.o0#
+
+CCompileC build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/GorjetonaAppDelegate.o /Users/MatheusBrum/Desktop/iGorjetona/Classes/GorjetonaAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277429102.934861
+e277429103.031931
+r1
+xCompileC
+xbuild/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/GorjetonaAppDelegate.o
+x/Users/MatheusBrum/Desktop/iGorjetona/Classes/GorjetonaAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/MatheusBrum/Desktop/iGorjetona/Classes/GorjetonaAppDelegate.m277429102#277429103#0(0"0(0#0#68"/Users/MatheusBrum/Desktop/iGorjetona/Classes/GorjetonaAppDelegate.m2416090432#1926"    cd /Users/MatheusBrum/Desktop/iGorjetona    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-generated-files.hmap -I/Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-project-headers.hmap -F/Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator -I/Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/include -I/Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/DerivedSources/i386 -I/Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/DerivedSources -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gorjetona_Prefix-bpgagwdkghrkifblpzrjjktpdzzr/Gorjetona_Prefix.pch -c /Users/MatheusBrum/Desktop/iGorjetona/Classes/GorjetonaAppDelegate.m -o /Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/GorjetonaAppDelegate.o0#
+
+CCompileC build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/GorjetonaViewController.o /Users/MatheusBrum/Desktop/Gorjetona/Classes/GorjetonaViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277428668.483821
+e277428668.653377
+r1
+xCompileC
+xbuild/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/GorjetonaViewController.o
+x/Users/MatheusBrum/Desktop/Gorjetona/Classes/GorjetonaViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/MatheusBrum/Desktop/Gorjetona/Classes/GorjetonaViewController.m277428668#277428668#0(0"0(0#0#70"/Users/MatheusBrum/Desktop/Gorjetona/Classes/GorjetonaViewController.m2416090432#1921"    cd /Users/MatheusBrum/Desktop/Gorjetona    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-generated-files.hmap -I/Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-project-headers.hmap -F/Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator -I/Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/include -I/Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/DerivedSources/i386 -I/Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/DerivedSources -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gorjetona_Prefix-euplktcyxkzkxycurskyhboxsdpa/Gorjetona_Prefix.pch -c /Users/MatheusBrum/Desktop/Gorjetona/Classes/GorjetonaViewController.m -o /Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/GorjetonaViewController.o0#
+
+CCompileC build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/GorjetonaViewController.o /Users/MatheusBrum/Desktop/iGorjetona/Classes/GorjetonaViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277429102.980368
+e277429103.088737
+r1
+xCompileC
+xbuild/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/GorjetonaViewController.o
+x/Users/MatheusBrum/Desktop/iGorjetona/Classes/GorjetonaViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/MatheusBrum/Desktop/iGorjetona/Classes/GorjetonaViewController.m277429102#277429103#0(0"0(0#0#71"/Users/MatheusBrum/Desktop/iGorjetona/Classes/GorjetonaViewController.m2416090432#1932"    cd /Users/MatheusBrum/Desktop/iGorjetona    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-generated-files.hmap -I/Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-project-headers.hmap -F/Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator -I/Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/include -I/Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/DerivedSources/i386 -I/Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/DerivedSources -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gorjetona_Prefix-bpgagwdkghrkifblpzrjjktpdzzr/Gorjetona_Prefix.pch -c /Users/MatheusBrum/Desktop/iGorjetona/Classes/GorjetonaViewController.m -o /Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/GorjetonaViewController.o0#
+
+CCompileC build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/main.o /Users/MatheusBrum/Desktop/Gorjetona/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277425718.803072
+e277425718.855619
+r1
+xCompileC
+xbuild/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/main.o
+x/Users/MatheusBrum/Desktop/Gorjetona/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/MatheusBrum/Desktop/Gorjetona/main.m277425718#277425718#0(0"0(0#0#43"/Users/MatheusBrum/Desktop/Gorjetona/main.m2416090432#1875"    cd /Users/MatheusBrum/Desktop/Gorjetona    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-generated-files.hmap -I/Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-project-headers.hmap -F/Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator -I/Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/include -I/Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/DerivedSources/i386 -I/Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/DerivedSources -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gorjetona_Prefix-euplktcyxkzkxycurskyhboxsdpa/Gorjetona_Prefix.pch -c /Users/MatheusBrum/Desktop/Gorjetona/main.m -o /Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/main.o /Users/MatheusBrum/Desktop/iGorjetona/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277429102.933569
+e277429102.980265
+r1
+xCompileC
+xbuild/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/main.o
+x/Users/MatheusBrum/Desktop/iGorjetona/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/MatheusBrum/Desktop/iGorjetona/main.m277429102#277429102#0(0"0(0#0#44"/Users/MatheusBrum/Desktop/iGorjetona/main.m2416090432#1886"    cd /Users/MatheusBrum/Desktop/iGorjetona    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-generated-files.hmap -I/Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-project-headers.hmap -F/Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator -I/Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/include -I/Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/DerivedSources/i386 -I/Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/DerivedSources -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gorjetona_Prefix-bpgagwdkghrkifblpzrjjktpdzzr/Gorjetona_Prefix.pch -c /Users/MatheusBrum/Desktop/iGorjetona/main.m -o /Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/MatheusBrum/Desktop/Gorjetona/GorjetonaViewController.xib
+s277427832.217491
+e277427832.547465
+r1
+xCompileXIB
+x/Users/MatheusBrum/Desktop/Gorjetona/GorjetonaViewController.xib
+lSLF07#2@38"CompileXIB GorjetonaViewController.xib277427832#277427832#0(0"0(0#0#64"/Users/MatheusBrum/Desktop/Gorjetona/GorjetonaViewController.xib2416090432#502"    cd /Users/MatheusBrum/Desktop/Gorjetona    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app/GorjetonaViewController.nib /Users/MatheusBrum/Desktop/Gorjetona/GorjetonaViewController.xib0#
+
+CCompileXIB /Users/MatheusBrum/Desktop/Gorjetona/MainWindow.xib
+s277425717.067705
+e277425717.457885
+r1
+xCompileXIB
+x/Users/MatheusBrum/Desktop/Gorjetona/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib277425717#277425717#0(0"0(0#0#51"/Users/MatheusBrum/Desktop/Gorjetona/MainWindow.xib2416090432#476"    cd /Users/MatheusBrum/Desktop/Gorjetona    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app/MainWindow.nib /Users/MatheusBrum/Desktop/Gorjetona/MainWindow.xib0#
+
+CCompileXIB /Users/MatheusBrum/Desktop/iGorjetona/GorjetonaViewController.xib
+r0
+
+CCompileXIB /Users/MatheusBrum/Desktop/iGorjetona/MainWindow.xib
+r0
+
+CCpResource build/Debug-iphonesimulator/Gorjetona.app/fundo.png Classes/fundo.png
+s277427284.533502
+e277427284.574443
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gorjetona.app/fundo.png
+xClasses/fundo.png
+lSLF07#2@22"Copy Classes/fundo.png277427284#277427284#0(0"0(0#0#54"/Users/MatheusBrum/Desktop/Gorjetona/Classes/fundo.png2416090432#457"    cd /Users/MatheusBrum/Desktop/Gorjetona    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/MatheusBrum/Desktop/Gorjetona/Classes/fundo.png /Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app0#
+
+CCpResource build/Debug-iphonesimulator/Gorjetona.app/icon.png icon.png
+s277429102.315438
+e277429102.320727
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gorjetona.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png277429102#277429102#0(0"0(0#0#46"/Users/MatheusBrum/Desktop/iGorjetona/icon.png2416090432#451"    cd /Users/MatheusBrum/Desktop/iGorjetona    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/MatheusBrum/Desktop/iGorjetona/icon.png /Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app0#
+
+CGenerateDSYMFile /Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app.dSYM /Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app/Gorjetona
+s277428668.670268
+e277428668.684079
+r1
+xGenerateDSYMFile
+x/Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app.dSYM
+x/Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app/Gorjetona
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Gorjetona.app.dSYM build/Debug-iphonesimulator/Gorjetona.app/Gorjetona277428668#277428668#0(0"0(0#0#88"/Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app/Gorjetona2416090432#383"    cd /Users/MatheusBrum/Desktop/Gorjetona    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app/Gorjetona -o /Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app.dSYM0#
+
+CGenerateDSYMFile /Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app.dSYM /Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app/Gorjetona
+s277429103.105110
+e277429103.118580
+r1
+xGenerateDSYMFile
+x/Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app.dSYM
+x/Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app/Gorjetona
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Gorjetona.app.dSYM build/Debug-iphonesimulator/Gorjetona.app/Gorjetona277429103#277429103#0(0"0(0#0#89"/Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app/Gorjetona2416090432#386"    cd /Users/MatheusBrum/Desktop/iGorjetona    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app/Gorjetona -o /Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app.dSYM0#
+
+CLd /Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app/Gorjetona normal i386
+s277428668.653461
+e277428668.670148
+r1
+xLd
+x/Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app/Gorjetona
+xnormal
+xi386
+lSLF07#2@93"Link /Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app/Gorjetona277428668#277428668#0(0"0(0#0#0"2416090432#862"    cd /Users/MatheusBrum/Desktop/Gorjetona    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -L/Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator -F/Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator -filelist /Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/Gorjetona.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app/Gorjetona0#
+
+CLd /Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app/Gorjetona normal i386
+s277429103.088823
+e277429103.105025
+r1
+xLd
+x/Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app/Gorjetona
+xnormal
+xi386
+lSLF07#2@94"Link /Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app/Gorjetona277429103#277429103#0(0"0(0#0#0"2416090432#867"    cd /Users/MatheusBrum/Desktop/iGorjetona    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -L/Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator -F/Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator -filelist /Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Objects-normal/i386/Gorjetona.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app/Gorjetona0#
+
+CProcessInfoPlistFile /Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app/Info.plist Gorjetona-Info.plist
+s277425717.064853
+e277425717.067640
+r1
+xProcessInfoPlistFile
+x/Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app/Info.plist
+xGorjetona-Info.plist
+lSLF07#2@28"Process Gorjetona-Info.plist277425717#277425717#0(0"0(0#0#57"/Users/MatheusBrum/Desktop/Gorjetona/Gorjetona-Info.plist2416090432#479"    cd /Users/MatheusBrum/Desktop/Gorjetona    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Gorjetona-Info.plist -genpkginfo /Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app/Info.plist Gorjetona-Info.plist
+s277429102.306745
+e277429102.315248
+r1
+xProcessInfoPlistFile
+x/Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app/Info.plist
+xGorjetona-Info.plist
+lSLF07#2@28"Process Gorjetona-Info.plist277429102#277429102#0(0"0(0#0#58"/Users/MatheusBrum/Desktop/iGorjetona/Gorjetona-Info.plist2416090432#482"    cd /Users/MatheusBrum/Desktop/iGorjetona    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Gorjetona-Info.plist -genpkginfo /Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app/Info.plist0#
+
+CProcessPCH /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gorjetona_Prefix-bpgagwdkghrkifblpzrjjktpdzzr/Gorjetona_Prefix.pch.gch Gorjetona_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s277429102.321119
+e277429102.933393
+r1
+xProcessPCH
+x/var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gorjetona_Prefix-bpgagwdkghrkifblpzrjjktpdzzr/Gorjetona_Prefix.pch.gch
+xGorjetona_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Gorjetona_Prefix.pch277429102#277429102#0(0"0(0#0#58"/Users/MatheusBrum/Desktop/iGorjetona/Gorjetona_Prefix.pch2416090432#1777"    cd /Users/MatheusBrum/Desktop/iGorjetona    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-generated-files.hmap -I/Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-project-headers.hmap -F/Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator -I/Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/include -I/Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/DerivedSources/i386 -I/Users/MatheusBrum/Desktop/iGorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/DerivedSources -c /Users/MatheusBrum/Desktop/iGorjetona/Gorjetona_Prefix.pch -o /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gorjetona_Prefix-bpgagwdkghrkifblpzrjjktpdzzr/Gorjetona_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gorjetona_Prefix-euplktcyxkzkxycurskyhboxsdpa/Gorjetona_Prefix.pch.gch Gorjetona_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s277425717.532424
+e277425718.802886
+r1
+xProcessPCH
+x/var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gorjetona_Prefix-euplktcyxkzkxycurskyhboxsdpa/Gorjetona_Prefix.pch.gch
+xGorjetona_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Gorjetona_Prefix.pch277425717#277425718#0(0"0(0#0#57"/Users/MatheusBrum/Desktop/Gorjetona/Gorjetona_Prefix.pch2416090432#1767"    cd /Users/MatheusBrum/Desktop/Gorjetona    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-generated-files.hmap -I/Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/Gorjetona-project-headers.hmap -F/Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator -I/Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/include -I/Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/DerivedSources/i386 -I/Users/MatheusBrum/Desktop/Gorjetona/build/Gorjetona.build/Debug-iphonesimulator/Gorjetona.build/DerivedSources -c /Users/MatheusBrum/Desktop/Gorjetona/Gorjetona_Prefix.pch -o /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gorjetona_Prefix-euplktcyxkzkxycurskyhboxsdpa/Gorjetona_Prefix.pch.gch0#
+
+CTouch /Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app
+s277428668.684153
+e277428668.686243
+r1
+xTouch
+x/Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app
+lSLF07#2@84"Touch /Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app277428668#277428668#0(0"0(0#0#0"2416090432#276"    cd /Users/MatheusBrum/Desktop/Gorjetona    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/MatheusBrum/Desktop/Gorjetona/build/Debug-iphonesimulator/Gorjetona.app0#
+
+CTouch /Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app
+s277429103.118657
+e277429103.120937
+r1
+xTouch
+x/Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app
+lSLF07#2@85"Touch /Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app277429103#277429103#0(0"0(0#0#0"2416090432#278"    cd /Users/MatheusBrum/Desktop/iGorjetona    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/MatheusBrum/Desktop/iGorjetona/build/Debug-iphonesimulator/Gorjetona.app0#
+
